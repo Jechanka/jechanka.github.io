@@ -47,7 +47,7 @@ text-align: center;
 .card {
     color: #222222;
     background: rgba(168, 0, 0, 0.781);
-    width: 1000px;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     border: 3px solid darkred;
@@ -56,4 +56,43 @@ text-align: center;
     padding-bottom: 20px;
     padding-right: 20px;
     padding-left: 20px;
+}
+
+.btn{
+
+    margin-top: 30px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+}
+
+.datum{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.content{
+    padding: 10px;
+    margin-left: 10px;
+    font: size 10px;
+}
+
+.gallery{
+    padding: px
+}
+
+td{
+    padding: 20px;
 }
